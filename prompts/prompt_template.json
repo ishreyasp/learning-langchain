@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    Summarize the paper titled '{paper_input}' with the following specifications:\n    Explanation Length: {length_input}\n\n    1. Mathematical Details:\n        - Include relevant mathematical equations if present in the papaer.\n        - Include relevenat mathematical concepts using simple and inituitive explanations.\n    2. Key Contributions:\n        - Highlight the main contributions of the paper.\n    3. Conclusion:\n        - Provide a concise summary of the paper's findings and their implications.\n    If certain information is not available in the paper , respond with: \"Information not available.\" instead of guessing.\n    Ensure the summary is clear, accurate, and aligned with the provided length specification.\n    ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
