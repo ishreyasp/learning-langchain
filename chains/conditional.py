@@ -16,7 +16,7 @@ pydantic_parser = PydanticOutputParser(pydantic_object=Feedback)
 model = ChatOpenAI(model="gpt-4", temperature=0.4)
 
 prompt1 = PromptTemplate(
-    template='Classify the sentiment of the following feedback into positive or negative \n {feedback}',
+    template='Classify the sentiment of the following feedback into positive or negative \n {feedback} \n {format_instruction}',
     input_variables=['feedback'],
     partial_variables={'format_instruction': pydantic_parser.get_format_instruction()}
 )
