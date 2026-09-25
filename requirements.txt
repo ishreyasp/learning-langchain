@@ -1,6 +1,7 @@
 
 # LangChain Core
 langchain
+langchain_core
 
 # OpenAI
 langchain-openai
@@ -14,3 +15,6 @@ numpy
 
 # Utils
 python-dotenv
+
+# UI
+streamlit
