@@ -1,0 +1,16 @@
+
+# LangChain Core
+langchain
+
+# OpenAI
+langchain-openai
+
+# Anthropic
+langchain-anthropic
+
+# Machine Learning
+scikit-learn
+numpy
+
+# Utils
+python-dotenv
