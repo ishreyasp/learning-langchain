@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 model = ChatOpenAI()
+
 parser = StrOutputParser()
 
 loader = TextLoader('cricket.txt', encoding='utf-8')
@@ -17,6 +18,7 @@ print(type(documents))
 print(len(documents))
 print(documents[0])
 print(documents[0].page_content)
+print(documents[0].metadata)
 
 model = ChatOpenAI()
 
