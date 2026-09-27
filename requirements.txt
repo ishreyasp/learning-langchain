@@ -2,6 +2,7 @@
 # LangChain Core
 langchain
 langchain_core
+langchain-community
 
 # OpenAI
 langchain-openai
