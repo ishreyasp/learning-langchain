@@ -1,0 +1,16 @@
+Cricket is a popular bat-and-ball team sport played between two teams of 11 players each. 
+It is governed globally by the International Cricket Council (ICC) and stands as the second most-watched sport in the world.
+
+The fundamental goal is to score more runs than the opposing team. 
+One team bats to score runs, while the other fields and bowls to restrict runs and dismiss the batters.
+
+The Pitch & Wickets: The action centers on a 22-yard rectangular strip (the pitch) in the middle of a large oval field. 
+At each end of the pitch sits a "wicket"—three wooden stumps holding two small wooden pieces called bails on top.
+
+Batting in Pairs: The batting team always has two players on the pitch simultaneously (the striker and non-striker).
+
+Overs: A bowler delivers a set of 6 legal balls, which constitutes an "over". After an over is complete, 
+a different bowler delivers from the opposite end of the pitch.
+
+When a batter is dismissed, they leave the field and are replaced by the next teammate. 
+Once 10 out of the 11 batters are dismissed, the teams switch roles. 
