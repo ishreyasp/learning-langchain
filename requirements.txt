@@ -1,8 +1,10 @@
 
 # LangChain Core
 langchain
-langchain_core
+langchain-core
 langchain-community
+langchain-text-splitters
+langchain-experimental
 
 # OpenAI
 langchain-openai
